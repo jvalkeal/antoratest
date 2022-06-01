@@ -12,7 +12,7 @@ content:
 urls:
   latest_version_segment_strategy: redirect:to
   latest_version_segment: ''
-  redirect_facility: httpd
+  redirect_facility: static
 ui:
   bundle:
     url: https://github.com/spring-io/antora-ui-spring/releases/download/latest/ui-bundle.zip
