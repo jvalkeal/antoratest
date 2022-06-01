@@ -6,7 +6,7 @@ asciidoc:
     page-pagination: true
 content:
   sources:
-    - url: ../../spring-cli
+    - url: ../..
 #      branches: [main]
       start_path: docs
 urls:
